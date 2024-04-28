@@ -388,7 +388,7 @@
 
 #rec536085112 .tn-elem[data-elem-id="1470209944682"] .tn-atom {
     color: #171717;
-    font-size: 128px;
+    font-size: 92px;
     font-family: 'Cormorant', Arial, sans-serif;
     line-height: 1;
     font-weight: 500;
@@ -405,7 +405,7 @@
     }
 
     #rec536085112 .tn-elem[data-elem-id="1470209944682"] .tn-atom {
-        font-size: 92px;
+        font-size: 82px;
     }
 }
 
@@ -421,7 +421,7 @@
     }
 
     #rec536085112 .tn-elem[data-elem-id="1470209944682"] .tn-atom {
-        font-size: 100px;
+        font-size: 90px;
     }
 }
 
@@ -436,7 +436,7 @@
     }
 
     #rec536085112 .tn-elem[data-elem-id="1470209944682"] .tn-atom {
-        font-size: 83px;
+        font-size: 80px;
     }
 }
 
@@ -447,7 +447,7 @@
     }
 
     #rec536085112 .tn-elem[data-elem-id="1470209944682"] .tn-atom {
-        font-size: 56px;
+        font-size: 50px;
     }
 }
 
@@ -509,9 +509,9 @@
 
 #rec536085112 .tn-elem[data-elem-id="1673443212242"] .tn-atom {
     color: #171717;
-    font-size: 100px;
+    font-size: 72px;
     font-family: 'Cormorant', Arial, sans-serif;
-    line-height: 1;
+    line-height: .5;
     font-weight: 500;
     text-transform: uppercase;
     background-position: center center;
@@ -526,7 +526,7 @@
     }
 
     #rec536085112 .tn-elem[data-elem-id="1673443212242"] .tn-atom {
-        font-size: 92px;
+        font-size: 65px;
     }
 }
 
@@ -541,7 +541,7 @@
     }
 
     #rec536085112 .tn-elem[data-elem-id="1673443212242"] .tn-atom {
-        font-size: 100px;
+        font-size: 72px;
     }
 }
 
@@ -556,7 +556,8 @@
     }
 
     #rec536085112 .tn-elem[data-elem-id="1673443212242"] .tn-atom {
-        font-size: 81px;
+        line-height: 1;
+        font-size: 65px;
     }
 }
 
