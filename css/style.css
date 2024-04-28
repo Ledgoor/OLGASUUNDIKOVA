@@ -23,8 +23,6 @@
         height: 590px;
     }
 
-    #rec536085112 .t396__filter {}
-
     #rec536085112 .t396__carrier {
         background-attachment: scroll;
     }
@@ -37,8 +35,6 @@
     #rec536085112 .t396__carrier {
         height: 930px;
     }
-
-    #rec536085112 .t396__filter {}
 
     #rec536085112 .t396__carrier {
         background-attachment: scroll;
@@ -53,8 +49,6 @@
         height: 910px;
     }
 
-    #rec536085112 .t396__filter {}
-
     #rec536085112 .t396__carrier {
         background-attachment: scroll;
     }
@@ -67,8 +61,6 @@
     #rec536085112 .t396__carrier {
         height: 690px;
     }
-
-    #rec536085112 .t396__filter {}
 
     #rec536085112 .t396__carrier {
         background-attachment: scroll;
@@ -1679,7 +1671,7 @@
     z-index: 10;
     top: 59px;
     left: calc(50% - 600px + 115px);
-    width: 491px;
+    width: 100%;
 }
 
 #rec536129876 .tn-elem[data-elem-id="1673443212242"] .tn-atom {
@@ -1776,8 +1768,6 @@
         height: 200px;
     }
 
-    #rec536326097 .t396__filter {}
-
     #rec536326097 .t396__carrier {
         background-attachment: scroll;
     }
@@ -1790,8 +1780,6 @@
     #rec536326097 .t396__carrier {
         height: 180px;
     }
-
-    #rec536326097 .t396__filter {}
 
     #rec536326097 .t396__carrier {
         background-attachment: scroll;
@@ -1806,8 +1794,6 @@
         height: 160px;
     }
 
-    #rec536326097 .t396__filter {}
-
     #rec536326097 .t396__carrier {
         background-attachment: scroll;
     }
@@ -1820,8 +1806,6 @@
     #rec536326097 .t396__carrier {
         height: 140px;
     }
-
-    #rec536326097 .t396__filter {}
 
     #rec536326097 .t396__carrier {
         background-attachment: scroll;
@@ -1974,8 +1958,6 @@
         height: 230px;
     }
 
-    #rec536330292 .t396__filter {}
-
     #rec536330292 .t396__carrier {
         background-attachment: scroll;
     }
@@ -1988,8 +1970,6 @@
     #rec536330292 .t396__carrier {
         height: 310px;
     }
-
-    #rec536330292 .t396__filter {}
 
     #rec536330292 .t396__carrier {
         background-attachment: scroll;
@@ -2004,8 +1984,6 @@
         height: 260px;
     }
 
-    #rec536330292 .t396__filter {}
-
     #rec536330292 .t396__carrier {
         background-attachment: scroll;
     }
@@ -2018,8 +1996,6 @@
     #rec536330292 .t396__carrier {
         height: 179px;
     }
-
-    #rec536330292 .t396__filter {}
 
     #rec536330292 .t396__carrier {
         background-attachment: scroll;
@@ -2210,14 +2186,12 @@
 }
 
 @media screen and (max-width: 1199px) {
-
     #rec544307450 .t396__artboard,
     #rec544307450 .t396__filter,
     #rec544307450 .t396__carrier {
         height: 140px;
     }
 
-    #rec544307450 .t396__filter {}
 
     #rec544307450 .t396__carrier {
         background-attachment: scroll;
@@ -2225,14 +2199,11 @@
 }
 
 @media screen and (max-width: 959px) {
-
     #rec544307450 .t396__artboard,
     #rec544307450 .t396__filter,
     #rec544307450 .t396__carrier {
         height: 110px;
     }
-
-    #rec544307450 .t396__filter {}
 
     #rec544307450 .t396__carrier {
         background-attachment: scroll;
@@ -2240,14 +2211,11 @@
 }
 
 @media screen and (max-width: 639px) {
-
     #rec544307450 .t396__artboard,
     #rec544307450 .t396__filter,
     #rec544307450 .t396__carrier {
         height: 110px;
     }
-
-    #rec544307450 .t396__filter {}
 
     #rec544307450 .t396__carrier {
         background-attachment: scroll;
@@ -2255,14 +2223,11 @@
 }
 
 @media screen and (max-width: 479px) {
-
     #rec544307450 .t396__artboard,
     #rec544307450 .t396__filter,
     #rec544307450 .t396__carrier {
         height: 79px;
     }
-
-    #rec544307450 .t396__filter {}
 
     #rec544307450 .t396__carrier {
         background-attachment: scroll;
@@ -2374,14 +2339,11 @@
 }
 
 @media screen and (max-width: 1199px) {
-
     #rec536332793 .t396__artboard,
     #rec536332793 .t396__filter,
     #rec536332793 .t396__carrier {
         height: 100px;
     }
-
-    #rec536332793 .t396__filter {}
 
     #rec536332793 .t396__carrier {
         background-attachment: scroll;
@@ -2389,14 +2351,11 @@
 }
 
 @media screen and (max-width: 959px) {
-
     #rec536332793 .t396__artboard,
     #rec536332793 .t396__filter,
     #rec536332793 .t396__carrier {
         height: 100px;
     }
-
-    #rec536332793 .t396__filter {}
 
     #rec536332793 .t396__carrier {
         background-attachment: scroll;
@@ -2404,14 +2363,11 @@
 }
 
 @media screen and (max-width: 639px) {
-
     #rec536332793 .t396__artboard,
     #rec536332793 .t396__filter,
     #rec536332793 .t396__carrier {
         height: 100px;
     }
-
-    #rec536332793 .t396__filter {}
 
     #rec536332793 .t396__carrier {
         background-attachment: scroll;
@@ -2419,14 +2375,11 @@
 }
 
 @media screen and (max-width: 479px) {
-
     #rec536332793 .t396__artboard,
     #rec536332793 .t396__filter,
     #rec536332793 .t396__carrier {
         height: 70px;
     }
-
-    #rec536332793 .t396__filter {}
 
     #rec536332793 .t396__carrier {
         background-attachment: scroll;
@@ -2560,14 +2513,11 @@
 }
 
 @media screen and (max-width: 1199px) {
-
     #rec536335080 .t396__artboard,
     #rec536335080 .t396__filter,
     #rec536335080 .t396__carrier {
         height: 640px;
     }
-
-    #rec536335080 .t396__filter {}
 
     #rec536335080 .t396__carrier {
         background-attachment: scroll;
@@ -2575,14 +2525,11 @@
 }
 
 @media screen and (max-width: 959px) {
-
     #rec536335080 .t396__artboard,
     #rec536335080 .t396__filter,
     #rec536335080 .t396__carrier {
         height: 580px;
     }
-
-    #rec536335080 .t396__filter {}
 
     #rec536335080 .t396__carrier {
         background-attachment: scroll;
@@ -2590,14 +2537,11 @@
 }
 
 @media screen and (max-width: 639px) {
-
     #rec536335080 .t396__artboard,
     #rec536335080 .t396__filter,
     #rec536335080 .t396__carrier {
         height: 840px;
     }
-
-    #rec536335080 .t396__filter {}
 
     #rec536335080 .t396__carrier {
         background-attachment: scroll;
@@ -2605,14 +2549,11 @@
 }
 
 @media screen and (max-width: 479px) {
-
     #rec536335080 .t396__artboard,
     #rec536335080 .t396__filter,
     #rec536335080 .t396__carrier {
         height: 819px;
     }
-
-    #rec536335080 .t396__filter {}
 
     #rec536335080 .t396__carrier {
         background-attachment: scroll;
@@ -3418,14 +3359,11 @@
 }
 
 @media screen and (max-width: 1199px) {
-
     #rec536523396 .t396__artboard,
     #rec536523396 .t396__filter,
     #rec536523396 .t396__carrier {
         height: 260px;
     }
-
-    #rec536523396 .t396__filter {}
 
     #rec536523396 .t396__carrier {
         background-attachment: scroll;
@@ -3433,14 +3371,11 @@
 }
 
 @media screen and (max-width: 959px) {
-
     #rec536523396 .t396__artboard,
     #rec536523396 .t396__filter,
     #rec536523396 .t396__carrier {
         height: 240px;
     }
-
-    #rec536523396 .t396__filter {}
 
     #rec536523396 .t396__carrier {
         background-attachment: scroll;
@@ -3448,14 +3383,11 @@
 }
 
 @media screen and (max-width: 639px) {
-
     #rec536523396 .t396__artboard,
     #rec536523396 .t396__filter,
     #rec536523396 .t396__carrier {
         height: 180px;
     }
-
-    #rec536523396 .t396__filter {}
 
     #rec536523396 .t396__carrier {
         background-attachment: scroll;
@@ -3463,14 +3395,11 @@
 }
 
 @media screen and (max-width: 479px) {
-
     #rec536523396 .t396__artboard,
     #rec536523396 .t396__filter,
     #rec536523396 .t396__carrier {
         height: 159px;
     }
-
-    #rec536523396 .t396__filter {}
 
     #rec536523396 .t396__carrier {
         background-attachment: scroll;
@@ -3729,14 +3658,11 @@
 }
 
 @media screen and (max-width: 1199px) {
-
     #rec536382819 .t396__artboard,
     #rec536382819 .t396__filter,
     #rec536382819 .t396__carrier {
         height: 90px;
     }
-
-    #rec536382819 .t396__filter {}
 
     #rec536382819 .t396__carrier {
         background-attachment: scroll;
@@ -3744,14 +3670,11 @@
 }
 
 @media screen and (max-width: 959px) {
-
     #rec536382819 .t396__artboard,
     #rec536382819 .t396__filter,
     #rec536382819 .t396__carrier {
         height: 80px;
     }
-
-    #rec536382819 .t396__filter {}
 
     #rec536382819 .t396__carrier {
         background-attachment: scroll;
@@ -3759,14 +3682,11 @@
 }
 
 @media screen and (max-width: 639px) {
-
     #rec536382819 .t396__artboard,
     #rec536382819 .t396__filter,
     #rec536382819 .t396__carrier {
         height: 110px;
     }
-
-    #rec536382819 .t396__filter {}
 
     #rec536382819 .t396__carrier {
         background-attachment: scroll;
@@ -3774,14 +3694,11 @@
 }
 
 @media screen and (max-width: 479px) {
-
     #rec536382819 .t396__artboard,
     #rec536382819 .t396__filter,
     #rec536382819 .t396__carrier {
         height: 119px;
     }
-
-    #rec536382819 .t396__filter {}
 
     #rec536382819 .t396__carrier {
         background-attachment: scroll;
@@ -4241,14 +4158,11 @@
 }
 
 @media screen and (max-width: 1199px) {
-
     #rec536415341 .t396__artboard,
     #rec536415341 .t396__filter,
     #rec536415341 .t396__carrier {
         height: 90px;
     }
-
-    #rec536415341 .t396__filter {}
 
     #rec536415341 .t396__carrier {
         background-attachment: scroll;
@@ -4256,14 +4170,11 @@
 }
 
 @media screen and (max-width: 959px) {
-
     #rec536415341 .t396__artboard,
     #rec536415341 .t396__filter,
     #rec536415341 .t396__carrier {
         height: 80px;
     }
-
-    #rec536415341 .t396__filter {}
 
     #rec536415341 .t396__carrier {
         background-attachment: scroll;
@@ -4271,14 +4182,11 @@
 }
 
 @media screen and (max-width: 639px) {
-
     #rec536415341 .t396__artboard,
     #rec536415341 .t396__filter,
     #rec536415341 .t396__carrier {
         height: 90px;
     }
-
-    #rec536415341 .t396__filter {}
 
     #rec536415341 .t396__carrier {
         background-attachment: scroll;
@@ -4286,14 +4194,11 @@
 }
 
 @media screen and (max-width: 479px) {
-
     #rec536415341 .t396__artboard,
     #rec536415341 .t396__filter,
     #rec536415341 .t396__carrier {
         height: 79px;
     }
-
-    #rec536415341 .t396__filter {}
 
     #rec536415341 .t396__carrier {
         background-attachment: scroll;
@@ -4638,8 +4543,6 @@
 #rec539629872 .t1072__price {
     color: #ffffff;
 }
-
-#rec539629872 .t1072__featured .t1072__content {}
 
 #rec539629872 .t1072__featured .t1072__header {
     background-color: #222222 !important;
@@ -4997,14 +4900,11 @@
 }
 
 @media screen and (max-width: 1199px) {
-
     #rec536387876 .t396__artboard,
     #rec536387876 .t396__filter,
     #rec536387876 .t396__carrier {
         height: 190px;
     }
-
-    #rec536387876 .t396__filter {}
 
     #rec536387876 .t396__carrier {
         background-attachment: scroll;
@@ -5012,14 +4912,11 @@
 }
 
 @media screen and (max-width: 959px) {
-
     #rec536387876 .t396__artboard,
     #rec536387876 .t396__filter,
     #rec536387876 .t396__carrier {
         height: 170px;
     }
-
-    #rec536387876 .t396__filter {}
 
     #rec536387876 .t396__carrier {
         background-attachment: scroll;
@@ -5027,14 +4924,11 @@
 }
 
 @media screen and (max-width: 639px) {
-
     #rec536387876 .t396__artboard,
     #rec536387876 .t396__filter,
     #rec536387876 .t396__carrier {
         height: 150px;
     }
-
-    #rec536387876 .t396__filter {}
 
     #rec536387876 .t396__carrier {
         background-attachment: scroll;
@@ -5042,14 +4936,11 @@
 }
 
 @media screen and (max-width: 479px) {
-
     #rec536387876 .t396__artboard,
     #rec536387876 .t396__filter,
     #rec536387876 .t396__carrier {
         height: 129px;
     }
-
-    #rec536387876 .t396__filter {}
 
     #rec536387876 .t396__carrier {
         background-attachment: scroll;
@@ -5181,14 +5072,11 @@
 }
 
 @media screen and (max-width: 1199px) {
-
     #rec536391438 .t396__artboard,
     #rec536391438 .t396__filter,
     #rec536391438 .t396__carrier {
         height: 620px;
     }
-
-    #rec536391438 .t396__filter {}
 
     #rec536391438 .t396__carrier {
         background-attachment: scroll;
@@ -5196,14 +5084,11 @@
 }
 
 @media screen and (max-width: 959px) {
-
     #rec536391438 .t396__artboard,
     #rec536391438 .t396__filter,
     #rec536391438 .t396__carrier {
         height: 710px;
     }
-
-    #rec536391438 .t396__filter {}
 
     #rec536391438 .t396__carrier {
         background-attachment: scroll;
@@ -5211,14 +5096,11 @@
 }
 
 @media screen and (max-width: 639px) {
-
     #rec536391438 .t396__artboard,
     #rec536391438 .t396__filter,
     #rec536391438 .t396__carrier {
         height: 1290px;
     }
-
-    #rec536391438 .t396__filter {}
 
     #rec536391438 .t396__carrier {
         background-attachment: scroll;
@@ -5226,14 +5108,11 @@
 }
 
 @media screen and (max-width: 479px) {
-
     #rec536391438 .t396__artboard,
     #rec536391438 .t396__filter,
     #rec536391438 .t396__carrier {
         height: 1079px;
     }
-
-    #rec536391438 .t396__filter {}
 
     #rec536391438 .t396__carrier {
         background-attachment: scroll;
@@ -5466,14 +5345,11 @@
 }
 
 @media screen and (max-width: 1199px) {
-
     #rec536402411 .t396__artboard,
     #rec536402411 .t396__filter,
     #rec536402411 .t396__carrier {
         height: 280px;
     }
-
-    #rec536402411 .t396__filter {}
 
     #rec536402411 .t396__carrier {
         background-attachment: scroll;
@@ -5481,14 +5357,11 @@
 }
 
 @media screen and (max-width: 959px) {
-
     #rec536402411 .t396__artboard,
     #rec536402411 .t396__filter,
     #rec536402411 .t396__carrier {
         height: 340px;
     }
-
-    #rec536402411 .t396__filter {}
 
     #rec536402411 .t396__carrier {
         background-attachment: scroll;
@@ -5496,14 +5369,11 @@
 }
 
 @media screen and (max-width: 639px) {
-
     #rec536402411 .t396__artboard,
     #rec536402411 .t396__filter,
     #rec536402411 .t396__carrier {
         height: 280px;
     }
-
-    #rec536402411 .t396__filter {}
 
     #rec536402411 .t396__carrier {
         background-attachment: scroll;
@@ -5511,14 +5381,11 @@
 }
 
 @media screen and (max-width: 479px) {
-
     #rec536402411 .t396__artboard,
     #rec536402411 .t396__filter,
     #rec536402411 .t396__carrier {
         height: 219px;
     }
-
-    #rec536402411 .t396__filter {}
 
     #rec536402411 .t396__carrier {
         background-attachment: scroll;
@@ -5714,14 +5581,11 @@
 }
 
 @media screen and (max-width: 1199px) {
-
     #rec536405670 .t396__artboard,
     #rec536405670 .t396__filter,
     #rec536405670 .t396__carrier {
         height: 200px;
     }
-
-    #rec536405670 .t396__filter {}
 
     #rec536405670 .t396__carrier {
         background-attachment: scroll;
@@ -5729,44 +5593,33 @@
 }
 
 @media screen and (max-width: 959px) {
-
     #rec536405670 .t396__artboard,
     #rec536405670 .t396__filter,
     #rec536405670 .t396__carrier {
         height: 180px;
     }
-
-    #rec536405670 .t396__filter {}
-
     #rec536405670 .t396__carrier {
         background-attachment: scroll;
     }
 }
 
 @media screen and (max-width: 639px) {
-
     #rec536405670 .t396__artboard,
     #rec536405670 .t396__filter,
     #rec536405670 .t396__carrier {
         height: 160px;
     }
-
-    #rec536405670 .t396__filter {}
-
     #rec536405670 .t396__carrier {
         background-attachment: scroll;
     }
 }
 
 @media screen and (max-width: 479px) {
-
     #rec536405670 .t396__artboard,
     #rec536405670 .t396__filter,
     #rec536405670 .t396__carrier {
         height: 109px;
     }
-
-    #rec536405670 .t396__filter {}
 
     #rec536405670 .t396__carrier {
         background-attachment: scroll;
@@ -5902,14 +5755,11 @@
 }
 
 @media screen and (max-width: 959px) {
-
     #rec536767925 .t396__artboard,
     #rec536767925 .t396__filter,
     #rec536767925 .t396__carrier {
         height: 610px;
     }
-
-    #rec536767925 .t396__filter {}
 
     #rec536767925 .t396__carrier {
         background-attachment: scroll;
@@ -5917,14 +5767,11 @@
 }
 
 @media screen and (max-width: 639px) {
-
     #rec536767925 .t396__artboard,
     #rec536767925 .t396__filter,
     #rec536767925 .t396__carrier {
         height: 580px;
     }
-
-    #rec536767925 .t396__filter {}
 
     #rec536767925 .t396__carrier {
         background-attachment: scroll;
@@ -5932,14 +5779,11 @@
 }
 
 @media screen and (max-width: 479px) {
-
     #rec536767925 .t396__artboard,
     #rec536767925 .t396__filter,
     #rec536767925 .t396__carrier {
         height: 580px;
     }
-
-    #rec536767925 .t396__filter {}
 
     #rec536767925 .t396__carrier {
         background-attachment: scroll;
