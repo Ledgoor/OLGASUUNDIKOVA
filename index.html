@@ -18,7 +18,7 @@
     <script src="https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js" async charset="utf-8"></script>
     <link rel="stylesheet" href="css/style.css" type="text/css" media="all"/>
     <link rel="stylesheet" href="https://static.tildacdn.info/css/tilda-grid-3.0.min.css" type="text/css" media="all" onerror="this.loaderr='y';" />
-    <link rel="stylesheet" href="tilda-blocks-page33165108.min.css@t=1712028932.css" type="text/css" media="all" onerror="this.loaderr='y';" />
+    <link rel="stylesheet" href="tilda-blocks-page33165108.min.css" type="text/css" media="all" onerror="this.loaderr='y';" />
     <link rel="stylesheet" href="https://static.tildacdn.info/css/tilda-animation-2.0.min.css" type="text/css" media="all" onerror="this.loaderr='y';" />
     <link rel="stylesheet" href="https://static.tildacdn.info/css/tilda-slds-1.4.min.css" type="text/css" media="print" onload="this.media='all';" onerror="this.loaderr='y';" /><noscript>
         <link rel="stylesheet" href="https://static.tildacdn.info/css/tilda-slds-1.4.min.css" type="text/css" media="all" />
@@ -51,7 +51,7 @@
             }
         } function t_throttle(fn, threshhold, scope) { return function () { fn.apply(scope || this, arguments); }; } function t396_initialScale(t) { t = document.getElementById("rec" + t); if (t) { t = t.querySelector(".t396__artboard"); if (t) { var e, r = document.documentElement.clientWidth, a = []; if (l = t.getAttribute("data-artboard-screens")) for (var l = l.split(","), i = 0; i < l.length; i++)a[i] = parseInt(l[i], 10); else a = [320, 480, 640, 960, 1200]; for (i = 0; i < a.length; i++) { var o = a[i]; o <= r && (e = o) } var n = "edit" === window.allrecords.getAttribute("data-tilda-mode"), d = "center" === t396_getFieldValue(t, "valign", e, a), u = "grid" === t396_getFieldValue(t, "upscale", e, a), c = t396_getFieldValue(t, "height_vh", e, a), g = t396_getFieldValue(t, "height", e, a), s = !!window.opr && !!window.opr.addons || !!window.opera || -1 !== navigator.userAgent.indexOf(" OPR/"); if (!n && d && !u && !c && g && !s) { for (var _ = parseFloat((r / e).toFixed(3)), f = [t, t.querySelector(".t396__carrier"), t.querySelector(".t396__filter")], i = 0; i < f.length; i++)f[i].style.height = Math.floor(parseInt(g, 10) * _) + "px"; t396_scaleInitial__getElementsToScale(t).forEach(function (t) { t.style.zoom = _ }) } } } } function t396_scaleInitial__getElementsToScale(t) { t = Array.prototype.slice.call(t.querySelectorAll(".t396__elem")); if (!t.length) return []; var e = []; return (t = t.filter(function (t) { t = t.closest('.t396__group[data-group-type-value="physical"]'); return !t || (-1 === e.indexOf(t) && e.push(t), !1) })).concat(e) } function t396_getFieldValue(t, e, r, a) { var l = a[a.length - 1], i = r === l ? t.getAttribute("data-artboard-" + e) : t.getAttribute("data-artboard-" + e + "-res-" + r); if (!i) for (var o = 0; o < a.length; o++) { var n = a[o]; if (!(n <= r) && (i = n === l ? t.getAttribute("data-artboard-" + e) : t.getAttribute("data-artboard-" + e + "-res-" + n))) break } return i }</script>
     <script src="https://static.tildacdn.info/js/tilda-scripts-3.0.min.js" charset="utf-8" defer onerror="this.loaderr='y';"></script>
-    <script src="tilda-blocks-page33165108.min.js@t=1712028932" charset="utf-8" async onerror="this.loaderr='y';"></script>
+    <script src="tilda-blocks-page33165108.min.js"></script>
     <script src="https://static.tildacdn.info/js/tilda-lazyload-1.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
     <script src="https://static.tildacdn.info/js/tilda-animation-2.0.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
     <script src="https://static.tildacdn.info/js/tilda-zero-1.1.min.js" charset="utf-8" async onerror="this.loaderr='y';"></script>
@@ -146,7 +146,16 @@
                     t_onFuncLoad('t450_initMenu', function () {
                         t450_initMenu('536511382');
                     });
-                });</script>
+                });
+            </script>
+
+            <script>
+                t_onReady(function () {
+                    t_onFuncLoad('t396_init', function () {
+                        t396_init('536085112');
+                    });
+                });
+            </script>
         </div>
         <div id="rec536512373" class="r t-rec"   data-record-type="215"><a name="obomne" style="font-size:0;"></a></div>
         <div id="rec536124611" class="r t-rec"   data-animationappear="off" data-record-type="396"><!-- T396 -->
@@ -1691,7 +1700,7 @@
                         <div class="t463__colwrapper">
                             <div class="t463__col"></div>
                             <div class="t463__col t463__col_center t-align_center">
-                                <div class="t463__typo t463__copyright t-name t-name_xs" field="text"><a href="mailto:мыло@yandex.ru" style="color: rgb(255, 255, 255);">мыло@yandex.ru</a></div>
+                                <div class="t463__typo t463__copyright t-name t-name_xs" field="text"><a href="mailto:olgasuyundikova@yandex.ru" style="color: rgb(255, 255, 255);">olgasuyundikova@yandex.ru</a></div>
                             </div>
                             <div class="t463__col t-align_right">
                                 <div class="t-sociallinks">
