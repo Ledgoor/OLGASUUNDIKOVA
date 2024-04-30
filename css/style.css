@@ -2570,7 +2570,7 @@
 
 #rec536335080 .tn-elem[data-elem-id="1673443212242"] .tn-atom {
     color: #171717;
-    font-size: 85px;
+    font-size: 80px;
     font-family: 'Cormorant', Arial, sans-serif;
     line-height: 1;
     font-weight: 500;
@@ -2587,7 +2587,7 @@
     }
 
     #rec536335080 .tn-elem[data-elem-id="1673443212242"] .tn-atom {
-        font-size: 79px;
+        font-size: 80px;
     }
 }
 
@@ -2603,7 +2603,7 @@
     }
 
     #rec536335080 .tn-elem[data-elem-id="1673443212242"] .tn-atom {
-        font-size: 69px;
+        font-size: 54px;
     }
 }
 
@@ -2611,7 +2611,8 @@
     #rec536335080 .tn-elem[data-elem-id="1673443212242"] {
         top: 95px;
         left: calc(50% - 240px + 10px);
-        width: 278px;
+        width: 360px;
+        word-break: break-word;
     }
 
     #rec536335080 .tn-elem[data-elem-id="1673443212242"] {
@@ -2619,7 +2620,7 @@
     }
 
     #rec536335080 .tn-elem[data-elem-id="1673443212242"] .tn-atom {
-        font-size: 61px;
+        font-size: 52px;    
     }
 }
 
@@ -2627,7 +2628,6 @@
     #rec536335080 .tn-elem[data-elem-id="1673443212242"] {
         top: 100px;
         left: calc(50% - 160px + -60px);
-        width: 310px;
     }
 
     #rec536335080 .tn-elem[data-elem-id="1673443212242"] {
@@ -3512,7 +3512,8 @@
     }
 
     #rec536523396 .tn-elem[data-elem-id="1673443212242"] .tn-atom {
-        font-size: 79px;
+        font-size: 62px;
+        width: 100%;
     }
 }
 
@@ -3520,7 +3521,6 @@
     #rec536523396 .tn-elem[data-elem-id="1673443212242"] {
         top: 70px;
         left: calc(50% - 320px + 10px);
-        width: 309px;
     }
 
     #rec536523396 .tn-elem[data-elem-id="1673443212242"] {
@@ -3529,6 +3529,7 @@
 
     #rec536523396 .tn-elem[data-elem-id="1673443212242"] .tn-atom {
         font-size: 69px;
+        text-align: center;
     }
 }
 
@@ -3536,7 +3537,6 @@
     #rec536523396 .tn-elem[data-elem-id="1673443212242"] {
         top: 50px;
         left: calc(50% - 240px + 10px);
-        width: 278px;
     }
 
     #rec536523396 .tn-elem[data-elem-id="1673443212242"] {
@@ -3552,7 +3552,6 @@
     #rec536523396 .tn-elem[data-elem-id="1673443212242"] {
         top: 70px;
         left: calc(50% - 160px + 0px);
-        width: 310px;
     }
 
     #rec536523396 .tn-elem[data-elem-id="1673443212242"] {
