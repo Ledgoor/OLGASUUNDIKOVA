@@ -827,7 +827,7 @@ img:not([src]) {
 .t450 a,
 #allrecords .t450 a {
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
 }
 .t450 {
     position: fixed;
@@ -959,7 +959,7 @@ img:not([src]) {
     font-size: 16px;
     display: block;
     margin: 0;
-    color: #fff;
+    color: #000000;
 }
 .t450__list_item a {
     margin-bottom: 15px;
