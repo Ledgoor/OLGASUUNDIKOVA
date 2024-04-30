@@ -3778,20 +3778,8 @@
     font-family: 'TildaSans';
 }
 
-@media (hover: hover), (min-width: 0\0) {
-    #rec536386782 .t-btn:not(.t-animate_no-hover):hover {
-        box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5) !important;
-    }
-
-    #rec536386782 .t-btn:not(.t-animate_no-hover):focus-visible {
-        box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5) !important;
-    }
-
-    #rec536386782 .t-btn:not(.t-animate_no-hover) {
-        transition-property: background-color, color, border-color, box-shadow;
-        transition-duration: 0.2s;
-        transition-timing-function: ease-in-out;
-    }
+#rec536386782 {
+    background-color: #ededed;
 }
 
 #rec540293344 .t1053__title {
