@@ -3049,17 +3049,23 @@ img:not([src]) {
     top: 0;
     bottom: 0;
     cursor: pointer;
-    background: transparent;
+    
 }
 .t958__next {
     right: 0;
     z-index: 2;
-    width: 15%;
+    width: 100px !important;
+    background: rgb(116,116,116);
+    background: linear-gradient(270deg, rgba(116,116,116,1) 5%, rgba(255,255,255,1) 110%);
+    opacity: .3;
 }
 .t958__previous {
     left: 0;
     z-index: 3;
-    width: 15%;
+    width: 100px !important;
+    background: rgb(116,116,116);
+    background: linear-gradient(90deg,  rgba(116,116,116,1) 5%,rgba(255,255,255,1) 110%);
+    opacity: .3;
 }
 .t958__height.t-width_6 {
     width: 560px !important;
